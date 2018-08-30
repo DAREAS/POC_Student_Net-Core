@@ -26,9 +26,15 @@
    
  ## Observations
   
-  Use .NET Core.
-  No need use database. Use memory chache, memory database or object with data
-  The library has a system that consumes data of an API.
-  The new API only needs provider links for the actual system to consume new data.
-  No necessary forms of input.
-  In your push branch you have an archive to specify an API contract to POST, GET and PUT.
+  
+  1 - Use .NET Core.
+  
+  2 - No need use database. Use memory chache, memory database or object with data.
+  
+  3 - The library has a system that consumes data of an API.
+  
+  4 - The new API only needs provider links for the actual system to consume new data.
+  
+  5- No necessary forms of input.
+  
+  6- In your push branch you have an archive to specify an API contract to POST, GET and PUT.
