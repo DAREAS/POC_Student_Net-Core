@@ -4,21 +4,24 @@
  This API have to follow any requisits:
  
  1 - One channel for registration of:
-   a - actors;
-   b - publishing company;
-   c - books
+ 
+     a - actors;
+     b - publishing company;
+     c - books
  
  2 - One channel to update data of:
-   a - actors;
-   b - publishing company;
-   c - books
+ 
+     a - actors;
+     b - publishing company;
+     c - books
    
  3 - One channel to list data of:
-   a - books;
-   b - actors;
-   c - publishing company;
-   d - all books by actor name;
-   e - all books by publishing company;
+ 
+     a - books;
+     b - actors;
+     c - publishing company;
+     d - all books by actor name;
+     e - all books by publishing company;
    
    
  ## Observations
